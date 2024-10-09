@@ -6,6 +6,7 @@
 # Virtual environments
 openai/
 aiwins/
+aiwin/
 .venv/
 .env/
 
